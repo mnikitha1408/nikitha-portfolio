@@ -9,7 +9,7 @@ Through academic courses, projects and internships, I have constantly been learn
 ## What I hope to learn
 My ideal job would be to work as a Data Scientist/Strategy Consultant. 
 I believe having good Data Visualization skills is important in this field and that I would greatly benefit from learning how to make better, more effective graphical use of data.
-Data Visualization is central to a job where you are expected to help people without a lot of technical knowledge understand more about a highly technical project you are working on.
+Data Visualization is central to a position where you are expected to help people without a lot of technical knowledge understand a highly technical project.
 
 
 # Portfolio
