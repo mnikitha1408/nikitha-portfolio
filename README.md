@@ -1,6 +1,7 @@
 # nikitha-portfolio
 My portfolio page for the Telling Stories with Data course at CMU.
 
+
 # About me
 Hi! I am Nikitha Mohan, a graduate student of Information Systems Management at CMU. 
 I have a background in Computer Science and picked up an interest in Natural Language Processing early on. 
@@ -14,4 +15,4 @@ Data Visualization is central to a position where you are expected to help peopl
 
 # Portfolio
 
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/7205602"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
