@@ -15,7 +15,7 @@ Data Visualization is central to a position where you are expected to help peopl
 
 # Portfolio
 
-## Data visualization Assignment
+## Data visualization assignment
 ## Assignments 3 & 4
 ## Final Project
 
