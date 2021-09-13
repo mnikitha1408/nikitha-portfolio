@@ -16,6 +16,7 @@ Data Visualization is central to a position where you are expected to help peopl
 # Portfolio
 
 ## Data visualization assignment
+[Visualizing Government Debt](/dataviz2.md)
 ## Assignments 3 & 4
 ## Final Project
 
