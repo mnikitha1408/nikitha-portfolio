@@ -19,8 +19,9 @@ Data Visualization is central to a position where you are expected to help peopl
 [Visualizing Government Debt](/dataviz2.md)
 ## Assignments 3 & 4
 ## Final Project
-
-### Flourish chart from class, Sep 07
+<br/>
+<br/>
+## Flourish chart from class, Sep 07
 King County - Positive and Cumulative Covid cases
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205602"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
