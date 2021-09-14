@@ -25,8 +25,8 @@ Changes in government debt over time primarily reflect the impact of past govern
 * It allowed me to highlight certain countries (in my case, the two countries with the highest and lowest ratios as of 2019). 
 * I also liked the 'popup' option where you can see the table with the data through the years when you scroll over it. This will give the audience the option to look at more data if they want to.
 * I did not want to include the legend because it was adding clutter to the chart (we have a lot of countries in the dataset). But I had to because Flourish disabled the categorical labels on the left-hand side for the highlighted countries if I did not include the legend.
-* The color scale I chose was 'Farrow & Ball' on Flourish. In addition to this, I used ColorBrewer to help me customize the highlighted countries. I chose to go with red and orange for the countries with the highest ratios since it implies that the situation is not good. On the other hand, I chose mild, pastel colors for the countries with the lowest ratios.
-*Note: I also transposed the dataset (years as the columns) and grouped them by country.
+* The color scale I chose was 'Farrow & Ball' on Flourish. In addition to this, I used ColorBrewer to help me customize the highlighted countries. I chose to go with red and orange for the countries with the highest ratios since it implies that the situation is not good. On the other hand, I chose mild, pastel colors for the countries with the lowest ratios. <br/>
+*Note: I also transposed the dataset (years as the columns) and grouped them by country.*
 
 ### A note on comparing the three charts:
 * I like the original bar chart because it is easy to see the ranking of the countries. But an important data point (time) is lost in it.
