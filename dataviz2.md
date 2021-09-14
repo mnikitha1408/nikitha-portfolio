@@ -12,4 +12,9 @@ Changes in government debt over time primarily reflect the impact of past govern
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7254842"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Flourish: Visualozation of Government Debt - Scatter Plot
+
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/7255274"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 [Back to Main](/README.md)
