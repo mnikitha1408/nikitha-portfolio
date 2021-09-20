@@ -1,6 +1,6 @@
 # Critique by Design (Assignment 3 & 4)
 
-## Step One: Find a data visualization
+## Step One: Finding a data visualization
 
 I came across a very interesting chart on Statista that was depicting restaurant performance in the United States over the last decade.<br/>
 I was driven to investigating it because the chart took a **single** relatively straightforward measurement (not commenting on how it is measured) and complicated it. <br/>
@@ -31,5 +31,7 @@ Identified potential audience - Food critics, bloggers, city council members etc
 * What worked: The font on the axes is pleasant. I like the grid lines (it is easy to associate with the Y-axis label values.)
 * What didn’t work: The title is too long. The years are not on the X-axis (it is not intuitive). Associating each colour to the corresponding year is very confusing. Comparing the differences between the years is difficult. The chart is too congested (too many lines). 
 * What I would do differently: I would first provide some context about what the restaurant performance index is. I would shorten the title. I would also highlight 2015 and 2020 to show the stark difference between them. 
+
+## Step Three: Wireframing
 
 
