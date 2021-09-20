@@ -15,7 +15,7 @@ The restuarant performance index measures the overall health of the US restauran
 
 
 ## Step Two: Critique
-Using Stephen Few's *Data Visualization Effectiveness Profile*, I critiqued the chart on how informative and emotive it was. 
+Using Stephen Few's *Data Visualization Effectiveness Profile*, I critiqued the chart on how informative and emotive it was.  <br/>
 Identified potential audience - Food critics, bloggers, city council members etc. <br/>
 **Usefulness:** I rated it low here because I felt that the chart would not be very useful to the identified audience. The only data point shown is a very broad measure, the performance index. We do not have any data on the different components that make up the index itself (like demographics, sales, capital expenditure etc.). <br/>
 **Completeness:** It did not really contain all the information that was necessary to make it understandable. There was no context on what the restaurant performance index was and why the Y-axis started at 92.5<br/>
@@ -31,6 +31,7 @@ Identified potential audience - Food critics, bloggers, city council members etc
 * What worked: The font on the axes is pleasant. I like the grid lines (it is easy to associate with the Y-axis label values.)
 * What didn’t work: The title is too long. The years are not on the X-axis (it is not intuitive). Associating each colour to the corresponding year is very confusing. Comparing the differences between the years is difficult. The chart is too congested (too many lines). 
 * What I would do differently: I would first provide some context about what the restaurant performance index is. I would shorten the title. I would also highlight 2015 and 2020 to show the stark difference between them. 
+
 
 ## Step Three: Wireframing a solution
 
@@ -82,7 +83,7 @@ Didn’t immediately pick up on the fact that the chart was about restaurant ind
 * Both of them felt that the title was not helpful. 
 * Change the title to something that was simple and clear.
 * Give some context about what the Restaurant Performance Index is.
-* The index on the Y-acis was not making sense to them both.
+* The index on the Y-axis was not making sense to them both.
 
 
 ## Step Five: My redesigned data visualization
