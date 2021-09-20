@@ -3,14 +3,14 @@
 
 ## Step One: Finding a data visualization
 
-I came across a very cluttered but interesting chart on Restaurant Industry Performance in the United States over the last decade on Statista.I was driven to investigating it because the chart took a **single** measurement and managed to complicate it. <br/>
+I came across a very cluttered but interesting chart on Restaurant Industry Performance in the United States over the last decade on Statista. I was driven to investigating it because the chart took a **single** measurement and managed to complicate it. <br/>
 <br/>
 Here is a screenshot of it,<br/>
 ![Original Chart](/original.png)
 <br/>
-Here is the link to the chart,
-https://www.statista.com/statistics/214747/us-restaurant-performance-index/ <br/>
-Source: National Restaurant Association & Statista
+<br/>
+[Here is the link to the chart](https://www.statista.com/statistics/214747/us-restaurant-performance-index/) <br/>
+*Source: National Restaurant Association & Statista*
 
 ### Some context that might be necessary,
 
@@ -29,7 +29,7 @@ Identified potential audience - Food critics, bloggers, city council members etc
 **Engagement:** It was average on engagement because I felt like the audience would be compelled to try and make sense of the chart. 
 
 
-### The Good Charts Critique Method:
+#### The Good Charts Critique Method:
 * At first glance: A lot of lines. Too many colours. One line that abruptly ends. 
 * What worked: The font on the axes is pleasant. I like the grid lines (it is easy to associate with the Y-axis label values.)
 * What didn’t work: The title is too long. The years are not on the X-axis (it is not intuitive). Associating each colour to the corresponding year is very confusing. Comparing the differences between the years is difficult. The chart is too congested (too many lines). 
@@ -91,7 +91,8 @@ Didn’t immediately pick up on the fact that the chart was about restaurant ind
 
 ## Step Five: My redesigned data visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/7303916"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<br/>
+### Note
 * I have changed the title.
 * I have greyed out all the other data points, focusing only on 2020.
 * I used red to show that it has a negative connotation.
