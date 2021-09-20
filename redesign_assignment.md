@@ -25,3 +25,11 @@ Identified potential audience - Food critics, bloggers, city council members etc
 **Aesthetics:** I rated it low on aesthetics because there are too many colours on the chart. The legend is not helpful at all. I mistook the incomplete data for 2021 as the data for 2013 because both of them were very similar shades of grey. 
 **Engagement:** It was average on engagement because I felt like the audience would be compelled to try and make sense of the chart. 
 
+
+### The Good Charts Method:
+* At first glance: A lot of lines. Too many colours. One line that abruptly ends. 
+* What worked: The font on the axes is pleasant. I like the grid lines (it is easy to associate with the Y-axis label values.)
+* What didn’t work: The title is too long. The years are not on the X-axis (it is not intuitive). Associating each colour to the corresponding year is very confusing. Comparing the differences between the years is difficult. The chart is too congested (too many lines). 
+* What I would do differently: I would first provide some context about what the restaurant performance index is. I would shorten the title. I would also highlight 2015 and 2020 to show the stark difference between them. 
+
+
