@@ -33,5 +33,5 @@ Identified potential audience - Food critics, bloggers, city council members etc
 * What I would do differently: I would first provide some context about what the restaurant performance index is. I would shorten the title. I would also highlight 2015 and 2020 to show the stark difference between them. 
 
 ## Step Three: Wireframing
-
+![Wireframe](/wireframe.jpeg)
 
