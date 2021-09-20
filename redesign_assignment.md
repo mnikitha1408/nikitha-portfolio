@@ -3,16 +3,18 @@
 
 ## Step One: Finding a data visualization
 
-I came across a very interesting chart on Statista that was depicting restaurant performance in the United States over the last decade.<br/>
-I was driven to investigating it because the chart took a **single** relatively straightforward measurement (not commenting on how it is measured) and complicated it. <br/>
-At first glance, I knew that it could be improved.<br/>
+I came across a very cluttered but interesting chart on Restaurant Industry Performance in the United States over the last decade on Statista.<br/>
+I was driven to investigating it because the chart took a **single** measurement and managed to complicate it. <br/>
+<br/>
+Here is a screenshot of it,
+![Original Chart](/original.jpeg)
+<br/>
 Here is the link to the chart,
 https://www.statista.com/statistics/214747/us-restaurant-performance-index/
-Source: National Restaurant Association
+Source: National Restaurant Association & Statista
 
-Here is a screenshot of it,
+### Some context that might be necessary,
 
-Some context that might be necessary,<br/>
 The restuarant performance index measures the overall health of the US restaurant industry. The index is based on the results of a monthly survey that is composed of a variety of indicators including sales, traffic, labor and capital expenditures. A value above 100 signals a period of expansion while a value below 100 signals a period of contraction.
 
 
@@ -28,7 +30,7 @@ Identified potential audience - Food critics, bloggers, city council members etc
 **Engagement:** It was average on engagement because I felt like the audience would be compelled to try and make sense of the chart. 
 
 
-### The Good Charts Method:
+### The Good Charts Critique Method:
 * At first glance: A lot of lines. Too many colours. One line that abruptly ends. 
 * What worked: The font on the axes is pleasant. I like the grid lines (it is easy to associate with the Y-axis label values.)
 * What didn’t work: The title is too long. The years are not on the X-axis (it is not intuitive). Associating each colour to the corresponding year is very confusing. Comparing the differences between the years is difficult. The chart is too congested (too many lines). 
@@ -50,11 +52,11 @@ I created a wireframe to test it and this is how it turned out.
 
 ## Step Four: Testing the solution
 
-In order to check if the redesign I was proposing would actually make a difference, I showed my wireframe to two of my friends. I wanted their input and feedback on what they thought my chart represented, if it was conveying the message effectively etc.
+In order to check if the redesign I was proposing would actually make a difference, I showed my wireframe to two of my friends. I wanted their input and feedback on what they thought my chart represented, if it was conveying the message effectively, etc. <br/>
 I structured our conversation around the same four questions to help facilitate this. I also made sure I didn't provide any leading information since that would skew the feedback. Here is how it went,
 
 **Person #1**:
-Didn’t immediately pick up on the fact that the chart was about restaurant industry performance. (Title was not effective enough)
+Didn’t immediately pick up on the fact that the chart was about restaurant industry performance. 
 1. What do you think the chart is about?
   * Comparison between something in 2020 and 2015.
   * 2020 was not a good year for restaurants.
@@ -81,8 +83,8 @@ Didn’t immediately pick up on the fact that the chart was about restaurant ind
   * I would make the X-axis years and use the average performance of each year as the data so I can see trend over time.
 
 ### What I learnt from the feedback
-* I should not highlight 2015 because it was taking attention away from 2020, on which I wanted to focus.
-* Both of them felt that the title was not helpful. 
+* I should not highlight 2015 because it was taking attention away from 2020.
+* Both of them felt that the title was not helpful.
 * Change the title to something that was simple and clear.
 * Give some context about what the Restaurant Performance Index is.
 * The index on the Y-axis was not making sense to them both.
