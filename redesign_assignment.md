@@ -33,5 +33,16 @@ Identified potential audience - Food critics, bloggers, city council members etc
 * What I would do differently: I would first provide some context about what the restaurant performance index is. I would shorten the title. I would also highlight 2015 and 2020 to show the stark difference between them. 
 
 ## Step Three: Wireframing
+
+Here is a copy of my wireframe, 
 ![Wireframe](/wireframe.jpeg)
+
+Having critiqued the chart, here are the changes I thought to implement.
+* Focus on how the restaurant industry was affected in the US in 2020 as a result of the pandemic. 
+* Reduce the number of colours on the chart.
+* Compare 2020 (worst performance index) with 2015 to highlight the difference. 
+* Highlight the neutral performancce level of 100.
+* Get rid of the legend as well as the labels for each year.
+
+I wanted to keep it as simple as possible while still conveying my message
 
