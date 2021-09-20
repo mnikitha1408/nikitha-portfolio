@@ -11,10 +11,17 @@ https://www.statista.com/statistics/214747/us-restaurant-performance-index/
 Here is a screenshot of it,
 
 Some context that might be necessary,<br/>
-The resuarant performance index measures the overall health of the US restaurant industry. The index is based on the results of a monthly survey that is composed of a variety of indicators including sales, traffic, labor and capital expenditures. A value above 100 signals a period of expansion while a value below 100 signals a period of contraction.
+The restuarant performance index measures the overall health of the US restaurant industry. The index is based on the results of a monthly survey that is composed of a variety of indicators including sales, traffic, labor and capital expenditures. A value above 100 signals a period of expansion while a value below 100 signals a period of contraction.
 
 
 ## Step Two: Critique
 Using Stephen Few's DataVisualization Effectiveness Profile, I critiqued the chart on how informative and emotive it was. 
-I first determined who I taught could be the potential audience and judged the chart's usefulness to them. 
+Identified potential audience - Food critics, bloggers, city council members etc.
+**Usefulness:** I rated it low here because I felt that the chart would not be very useful to the identified audience. The only data point shown is a very broad measure, the performance index. We do not have any data on the different components that make up the index itself (like demographics, sales, capital expenditure etc.). 
+**Completeness:**
+**Perceptability:**
+**Truthfulness:**
+**Intuitiveness:**
+**Aesthetics:**
+**Engagement:**
 
