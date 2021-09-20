@@ -77,6 +77,12 @@ Didn’t immediately pick up on the fact that the chart was about restaurant ind
   * Maybe provide information about how to read the performance index. 
   * I would make the X-axis years and use the average performance of each year as the data so I can see trend over time.
 
+### What I learnt from the feedback
+* I should not highlight 2015 because it was taking attention away from 2020, on which I wanted to focus.
+* Both of them felt that the title was not helpful. 
+* Change the title to something that was simple and clear.
+* Give some context about what the Restaurant Performance Index is.
+* The index on the Y-acis was not making sense to them both.
 
 
 
