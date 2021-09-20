@@ -32,17 +32,52 @@ Identified potential audience - Food critics, bloggers, city council members etc
 * What didn’t work: The title is too long. The years are not on the X-axis (it is not intuitive). Associating each colour to the corresponding year is very confusing. Comparing the differences between the years is difficult. The chart is too congested (too many lines). 
 * What I would do differently: I would first provide some context about what the restaurant performance index is. I would shorten the title. I would also highlight 2015 and 2020 to show the stark difference between them. 
 
-## Step Three: Wireframing
+## Step Three: Wireframing a solution
 
-Here is a copy of my wireframe, 
-![Wireframe](/wireframe.jpeg)
-
-Having critiqued the chart, here are the changes I thought to implement.
+Having critiqued the chart, here are some thoughts/changes I thought to implement. 
 * Focus on how the restaurant industry was affected in the US in 2020 as a result of the pandemic. 
 * Reduce the number of colours on the chart.
-* Compare 2020 (worst performance index) with 2015 to highlight the difference. 
+* Compare 2020 (worst performance index) with the best performing year to highlight the difference. 
 * Highlight the neutral performancce level of 100.
-* Get rid of the legend as well as the labels for each year.
+* Reduce clutter by getting rid of the legend as well as the labels for each year.
+* Retain the type of chart to capture fluctuations through the months.
 
-I wanted to keep it as simple as possible while still conveying my message
+I created a wireframe to test it and this is how it turned out.
+![Wireframe](/wireframe.jpeg)
+
+## Step Four: Testing the solution
+
+In order to check if the redesign I was proposing would actually make a difference, I showed my wireframe to two of my friends. I wanted their input and feedback on what they thought my chart represented, if it was conveying the message effectively etc.
+I structured our conversation around the same four questions to help facilitate this. I also made sure I didn't provide any leading information since that would skew the feedback. Here is how it went,
+
+**Person #1**:
+Didn’t immediately pick up on the fact that the chart was about restaurant industry performance. (Title was not effective enough)
+1. What do you think the chart is about?
+  * Comparison between something in 2020 and 2015.
+  * 2020 was not a good year for restaurants.
+2. Who do you think is the intended audience for this?
+  * Anyone who is interested in investing in restaurants or owns a restaurant. This will tell them how the industry is performing - to increase/decrease prices etc.
+3. Is there anything you find confusing or surprising about the chart?
+  * I don’t understand why a score of 92 is bad. (The y-axis)
+  * The grey lines in the centre of the chart is adding clutter (confusing)
+4. Any other comments?
+  * Why is 2015 so high? 
+  * The title is not clear (You are comparing months of different years but it says through the years?)
+
+**Person #2:**
+2020 Feb was not good for something. Thought it was a covid related chart.
+1. What do you think the chart is about?
+  * 2020 and 2015 comparison for restaurants
+2. Who do you think is the intended audience?
+  * Newspapers/articles? General public awareness of the effect of covid
+3. Is there anything you find confusing or surprising about the chart?
+  * The Y-axis label 2.5 units measure? 
+  * Are the other years averaging out near the centre line? (Unclear, distracting)
+4. Any other comments?
+  * Maybe provide information about how to read the performance index. 
+  * I would make the X-axis years and use the average performance of each year as the data so I can see trend over time.
+
+
+
+
 
