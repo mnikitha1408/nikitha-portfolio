@@ -16,13 +16,13 @@ The restuarant performance index measures the overall health of the US restauran
 
 ## Step Two: Critique
 Using Stephen Few's *Data Visualization Effectiveness Profile*, I critiqued the chart on how informative and emotive it was. 
-Identified potential audience - Food critics, bloggers, city council members etc.
-**Usefulness:** I rated it low here because I felt that the chart would not be very useful to the identified audience. The only data point shown is a very broad measure, the performance index. We do not have any data on the different components that make up the index itself (like demographics, sales, capital expenditure etc.). 
-**Completeness:** It did not really contain all the information that was necessary to make it understandable. There was no context on what the restaurant performance index was and why the Y-axis started at 92.5
-**Perceptability:** Although the chart did not make illogical comparisons, it is not easily perceptive. I had to spend time carefully going over the lines to understand that it was trying to show the difference through the years. Even the pop-up box (when scrolling over a data point) was not easy to understand.
-**Truthfulness:** The chart does not misrepresent any data or make any comparisons that aren't correct.
-**Intuitiveness:** I rated it very low on intuitiveness because I felt that the X-axis with the months was different. And the years were not arranged in any particular manner because it was showing the trend line and that made it more counterintuitive. 
-**Aesthetics:** I rated it low on aesthetics because there are too many colours on the chart. The legend is not helpful at all. I mistook the incomplete data for 2021 as the data for 2013 because both of them were very similar shades of grey. 
+Identified potential audience - Food critics, bloggers, city council members etc. <br/>
+**Usefulness:** I rated it low here because I felt that the chart would not be very useful to the identified audience. The only data point shown is a very broad measure, the performance index. We do not have any data on the different components that make up the index itself (like demographics, sales, capital expenditure etc.). <br/>
+**Completeness:** It did not really contain all the information that was necessary to make it understandable. There was no context on what the restaurant performance index was and why the Y-axis started at 92.5<br/>
+**Perceptability:** Although the chart did not make illogical comparisons, it is not easily perceptive. I had to spend time carefully going over the lines to understand that it was trying to show the difference through the years. Even the pop-up box (when scrolling over a data point) was not easy to understand.<br/>
+**Truthfulness:** The chart does not misrepresent any data or make any comparisons that aren't correct.<br/>
+**Intuitiveness:** I rated it very low on intuitiveness because I felt that the X-axis with the months was different. And the years were not arranged in any particular manner because it was showing the trend line and that made it more counterintuitive. <br/>
+**Aesthetics:** I rated it low on aesthetics because there are too many colours on the chart. The legend is not helpful at all. I mistook the incomplete data for 2021 as the data for 2013 because both of them were very similar shades of grey. <br/>
 **Engagement:** It was average on engagement because I felt like the audience would be compelled to try and make sense of the chart. 
 
 
