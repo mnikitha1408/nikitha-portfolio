@@ -1,4 +1,5 @@
 # Critique by Design (Assignment 3 & 4)
+[Back to Main](/README.md)
 
 ## Step One: Finding a data visualization
 
@@ -7,6 +8,7 @@ I was driven to investigating it because the chart took a **single** relatively 
 At first glance, I knew that it could be improved.<br/>
 Here is the link to the chart,
 https://www.statista.com/statistics/214747/us-restaurant-performance-index/
+Source: National Restaurant Association
 
 Here is a screenshot of it,
 
