@@ -7,7 +7,7 @@ I came across a very cluttered but interesting chart on Restaurant Industry Perf
 I was driven to investigating it because the chart took a **single** measurement and managed to complicate it. <br/>
 <br/>
 Here is a screenshot of it,
-![Original Chart](/original.jpeg)
+![Original Chart](/original.png)
 <br/>
 Here is the link to the chart,
 https://www.statista.com/statistics/214747/us-restaurant-performance-index/
