@@ -85,5 +85,6 @@ Didn’t immediately pick up on the fact that the chart was about restaurant ind
 * The index on the Y-acis was not making sense to them both.
 
 
-
+## Step Five: My redesigned data visualization
+<div class="flourish-embed flourish-chart" data-src="visualisation/7303916"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
