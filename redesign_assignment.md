@@ -3,14 +3,13 @@
 
 ## Step One: Finding a data visualization
 
-I came across a very cluttered but interesting chart on Restaurant Industry Performance in the United States over the last decade on Statista.<br/>
-I was driven to investigating it because the chart took a **single** measurement and managed to complicate it. <br/>
+I came across a very cluttered but interesting chart on Restaurant Industry Performance in the United States over the last decade on Statista.I was driven to investigating it because the chart took a **single** measurement and managed to complicate it. <br/>
 <br/>
-Here is a screenshot of it,
+Here is a screenshot of it,<br/>
 ![Original Chart](/original.png)
 <br/>
 Here is the link to the chart,
-https://www.statista.com/statistics/214747/us-restaurant-performance-index/
+https://www.statista.com/statistics/214747/us-restaurant-performance-index/ <br/>
 Source: National Restaurant Association & Statista
 
 ### Some context that might be necessary,
@@ -20,13 +19,13 @@ The restuarant performance index measures the overall health of the US restauran
 
 ## Step Two: Critique
 Using Stephen Few's *Data Visualization Effectiveness Profile*, I critiqued the chart on how informative and emotive it was.  <br/>
-Identified potential audience - Food critics, bloggers, city council members etc. <br/>
-**Usefulness:** I rated it low here because I felt that the chart would not be very useful to the identified audience. The only data point shown is a very broad measure, the performance index. We do not have any data on the different components that make up the index itself (like demographics, sales, capital expenditure etc.). <br/>
-**Completeness:** It did not really contain all the information that was necessary to make it understandable. There was no context on what the restaurant performance index was and why the Y-axis started at 92.5<br/>
-**Perceptability:** Although the chart did not make illogical comparisons, it is not easily perceptive. I had to spend time carefully going over the lines to understand that it was trying to show the difference through the years. Even the pop-up box (when scrolling over a data point) was not easy to understand.<br/>
-**Truthfulness:** The chart does not misrepresent any data or make any comparisons that aren't correct.<br/>
-**Intuitiveness:** I rated it very low on intuitiveness because I felt that the X-axis with the months was different. And the years were not arranged in any particular manner because it was showing the trend line and that made it more counterintuitive. <br/>
-**Aesthetics:** I rated it low on aesthetics because there are too many colours on the chart. The legend is not helpful at all. I mistook the incomplete data for 2021 as the data for 2013 because both of them were very similar shades of grey. <br/>
+Identified potential audience - Food critics, bloggers, city council members etc. <br/><br/>
+**Usefulness:** I rated it low here because I felt that the chart would not be very useful to the identified audience. The only data point shown is a very broad measure, the performance index. We do not have any data on the different components that make up the index itself (like demographics, sales, capital expenditure etc.). <br/><br/>
+**Completeness:** It did not really contain all the information that was necessary to make it understandable. There was no context on what the restaurant performance index was and why the Y-axis started at 92.5<br/><br/>
+**Perceptability:** Although the chart did not make illogical comparisons, it is not easily perceptive. I had to spend time carefully going over the lines to understand that it was trying to show the difference through the years. Even the pop-up box (when scrolling over a data point) was not easy to understand.<br/><br/>
+**Truthfulness:** The chart does not misrepresent any data or make any comparisons that aren't correct.<br/><br/>
+**Intuitiveness:** I rated it very low on intuitiveness because I felt that the X-axis with the months was different. And the years were not arranged in any particular manner because it was showing the trend line and that made it more counterintuitive. <br/><br/>
+**Aesthetics:** I rated it low on aesthetics because there are too many colours on the chart. The legend is not helpful at all. I mistook the incomplete data for 2021 as the data for 2013 because both of them were very similar shades of grey. <br/><br/>
 **Engagement:** It was average on engagement because I felt like the audience would be compelled to try and make sense of the chart. 
 
 
@@ -55,7 +54,7 @@ I created a wireframe to test it and this is how it turned out.
 In order to check if the redesign I was proposing would actually make a difference, I showed my wireframe to two of my friends. I wanted their input and feedback on what they thought my chart represented, if it was conveying the message effectively, etc. <br/>
 I structured our conversation around the same four questions to help facilitate this. I also made sure I didn't provide any leading information since that would skew the feedback. Here is how it went,
 
-**Person #1**:
+**Person #1**:<br/>
 Didn’t immediately pick up on the fact that the chart was about restaurant industry performance. 
 1. What do you think the chart is about?
   * Comparison between something in 2020 and 2015.
@@ -69,7 +68,7 @@ Didn’t immediately pick up on the fact that the chart was about restaurant ind
   * Why is 2015 so high? 
   * The title is not clear (You are comparing months of different years but it says through the years?)
 
-**Person #2:**
+**Person #2:**<br/>
 2020 Feb was not good for something. Thought it was a covid related chart.
 1. What do you think the chart is about?
   * 2020 and 2015 comparison for restaurants
@@ -92,4 +91,10 @@ Didn’t immediately pick up on the fact that the chart was about restaurant ind
 
 ## Step Five: My redesigned data visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/7303916"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+* I have changed the title.
+* I have greyed out all the other data points, focusing only on 2020.
+* I used red to show that it has a negative connotation.
+* I included grid lines to aide the audience. 
+* I also included some context about the index under the subtitle.
 
