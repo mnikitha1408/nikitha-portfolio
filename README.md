@@ -3,9 +3,10 @@ My portfolio page for the Telling Stories with Data course at CMU.
 
 
 # About me
-Hi! I am Nikitha Mohan, a graduate student of Information Systems Management at CMU. 
-I have a background in Computer Science and picked up an interest in Natural Language Processing early on. 
-Through academic courses, projects and internships, I have constantly been learning more about NLP as well as a wide range of subjects from Economics to Management Consulting, and cool technology like Blockchain.
+Hi! I am Nikitha Mohan, a graduate student of Information Systems Management at Carnegie Mellon University.
+I have a background in Computer Science and have always been amazed by how mere sequences of ones and zeroes are capable of simplifying life. I am particularly interested in teaching computers to understand and learn human language, and have been working towards it through academic courses, projects and internships. 
+I have also really enjoyed learning about a wide range of subjects from Economics to Management Consulting, and cool technology like Blockchain.
+Also, here are a few books I read during the summer - Simon Singh's The Codebook, Genghis Khan & the Making of the Modern World, The Nightingale.
 
 ## What I hope to learn
 My ideal job would be to work as a Data Scientist/Strategy Consultant. 
@@ -20,9 +21,5 @@ Data Visualization is central to a position where you are expected to help peopl
 ## Assignments 3 & 4
 [Critique by Design](/redesign_assignment.md)
 ## Final Project
-<br/>
-<br/>
-## Flourish chart from class, Sep 07
-King County - Positive and Cumulative Covid cases
+[Final Project](/final_project.md)
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7205602"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
