@@ -33,6 +33,9 @@ Buzzfeed News
 
 ## Method and Medium
 * Research - identify articles and verified news stories that talk about real-life incidents as a result of fake news on social media to back up my claim.
-* I plan on using Shorthand for the final presentation.
-* 
+* Data Viz - use the data I have gathered to make powerful visualizations to reinforce my message.
+* Writeup - I do not want the writeup to be very long; I want it to support the data and mostly allow the data to talk for itself.
+* Call-to-Action - I have to think through and finalize my call-to-action.
+* More data - I would like to find more data regarding people's opinion on government regulation of social media in countries around the world to come up with my recommendation in the conclusion. I also want to find some data to show that raising awareness in teenagers through mandatory courses in school and having publicly accesible information about misinformation (eg. short videos on YouTube) could make a huge difference in the fight against misinformation in years to come.
+* Medium for Final Presentation - I plan on using Shorthand for the final presentation. And have a more detailed copy of it on myGitHub page, including this draft version of the project. 
 
