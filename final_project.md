@@ -39,6 +39,7 @@ I have identified the following sources of data that I can use for my story. <br
 * [Social Media Fact Sheet](https://www.pewresearch.org/internet/fact-sheet/social-media/)
 * [Social Media Usage](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf)
 * [Social Media as News Source](https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2021/01/PJ_2021.01.12_News-and-Social-Media_TOPLINE.pdf)
+* [Social Media as News Source](https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2021/09/PJ_2021.09.20_News-and-Social-Media_TOPLINE.pdf)
 
 The Pew Research Center data consists of two surveys and the questions revolve around social media usage habits such as the sites the respondents use, how often and how much time they generally spend on social media. The other survey asks about how the respondents stay up to date with current affairs and if they trust the news on social media.<br/>The fact sheet contains data on the number of users of the various social media platforms through the years, the demographics etc. These three sources can be used to show the power and growing popularity of social media, the number of people who rely on it to stay up to date on events etc. which will form the first part of my project.
 
@@ -54,6 +55,13 @@ The Statista data can be used to back up the Pew Research data for the number of
 * [Fake News - Election, Content Engagement](https://docs.google.com/spreadsheets/d/1ysnzawW6pDGBEqbXqeYuzWa7Rx2mQUip6CXUUUk4jIk/edit#gid=399992108)
 
 The Buzzfeed News data can be used to show the impact and widespread nature of fake news, especially during the election period. 
+
+#### Others
+* [Wikipedia](https://en.wikipedia.org/wiki/Social_media_as_a_news_source)
+* [Datareportal](https://datareportal.com/reports/digital-2021-july-global-statshot)
+* [Smart Insights](https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/)
+
+I can refer to these for additional statistics and information regarding social media.
 
 
 ## Method and Medium
