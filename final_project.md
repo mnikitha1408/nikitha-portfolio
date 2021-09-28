@@ -13,7 +13,7 @@ I want to take the audience through a journey as follows,
 * Conclusion - How can we combat misinformation? What is Big Tech doing about it? What can governments do?
 
 ## Initial Sketches
-<img src="population.jpeg" alt="Population" width="250"/>
+<img src="population.jpeg" alt="Population" width="450"/>
 ![Population](/population.jpeg)
 ![Internet Users](/internet users.jpeg)
 ![Social Media Growth](/social media growth.jpeg)
