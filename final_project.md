@@ -31,6 +31,10 @@ This one breaks down the source of news of the surveyed US Adults. I want to hig
 <br/>
 <img src="news source.jpeg" alt="News Source" width="550"/>
 <br/>
+<br/>
+I also found the audience journey sketch from class really useful,
+<img src="audience.jpeg" alt="Audience Journey" width="550"/>
+<br/>
 
 ## Data
 I have identified the following sources of data that I can use for my story. <br/>
