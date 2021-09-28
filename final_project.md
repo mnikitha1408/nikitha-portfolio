@@ -13,7 +13,10 @@ I want to take the audience through a journey as follows,
 * Conclusion - How can we combat misinformation? What is Big Tech doing about it? What can governments do?
 
 ## Initial Sketches
-
+![Population](/population.jpeg)
+![Internet Users](/internet users.jpeg)
+![Social Media Growth](/social media growth.jpeg)
+![News Source](/news source.jpeg)
 
 ## Data
 I have identified the following sources of data that I can use for my story. <br/>
