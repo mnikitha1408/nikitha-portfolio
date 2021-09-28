@@ -16,7 +16,15 @@ I want to take the audience through a journey as follows,
 
 
 ## Data
-I have identified the following sources of data that I can use for my story. The Pew Research Center data consists of two surveys that were conducted and the questions were about social media usage habits such as which sites the respondents use, how often and how much time they generally spend on social media. The other survey asks about how the respondents stay up to date with current affairs and if they trust socia
+I have identified the following sources of data that I can use for my story. <br/> The Pew Research Center data consists of two surveys and the questions revolve around social media usage habits such as the sites the respondents use, how often and how much time they generally spend on social media. The other survey asks about how the respondents stay up to date with current affairs and if they trust the news on social media.<br/>The fact sheet contains data on the number of users of the various social media platforms through the years, the demographics etc. These three sources can be used to show the power and growing popularity of social media, the number of people who rely on it to stay up to date on events etc. which will form the first part of my project.
+<br/>
+<br/>
+The Statista data can be used to back up the Pew Research data for the number of users and social media as a news source. I also found data that can support the case studies on misonformation revolving Covid and the 2016 elections. 
+<br/>
+<br/>
+The Buzzfeed News data can be used to show the impact and widespread nature of fake news. 
+
+
 Pew Reseach Center:
 * [Social Media Fact Sheet](https://www.pewresearch.org/internet/fact-sheet/social-media/)
 * [Social Media Usage](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf)
