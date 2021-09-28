@@ -13,13 +13,16 @@ I want to take the audience through a journey as follows,
 * Conclusion - How can we combat misinformation? What is Big Tech doing about it? What can governments do?
 
 ## Initial Sketches
-For the first part of my project, I want to show the power of social media. I have sketched out two charts, one showing the proportion of active social media users against the total world population and the other showing the percentage of internet users who are on social media.
+For the first part of my project, I want to show the power of social media. <br/>
+<br/>
+I have sketched out two charts, one showing the proportion of active social media users against the total world population and the other showing the percentage of internet users who are on social media.<br/>
 <img src="population.jpeg" alt="Population" width="450"/>
 <br/>
 <br/>
 <img src="internet users.jpeg" alt="Internet" width="450"/>
+<br/>
 
-The next sketch shows a line chart of growing usage of social media in both young adults and the aged population since 2005.
+The next sketch shows a line chart of growing usage of social media in both young adults and the aged population since 2005.<br/>
 <img src="social media growth.jpeg" alt="Social Media Growth" width="650"/> 
 <br/>
 <br/>
@@ -27,7 +30,7 @@ The next sketch shows a line chart of growing usage of social media in both youn
 This one breaks down the source of news of the surveyed US Adults. I want to highlight the high percentage of people getting their news from social media.
 <br/>
 <img src="news source.jpeg" alt="News Source" width="550"/>
-
+<br/>
 
 ## Data
 I have identified the following sources of data that I can use for my story. <br/>
