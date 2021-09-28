@@ -3,7 +3,7 @@
 [Back to Main](/README.md)
 
 ## Summary
-Social media (Facebook, Twitter, Instagram etc.) is a powerful tool, and has more or less, changed the way we communicate. The number of users on these platforms have been steadily increasing through the years, and there are no rules that govern engagement. <br/><br/>I want to talk about about an (unanticipated?) side-effect that has serious and negative impacts on society outside of this virtual world. My aim is to create awareness, to encourage people to talk about **Misinformation & Fake News on social media**, and help them to make better decisions when they go online.
+Social media (Facebook, Twitter, Instagram etc.) is a powerful tool, and has more or less changed the way we communicate. The number of users on these platforms have been steadily increasing through the years, and there are no rules that govern engagement. <br/><br/>I want to talk about about an (unanticipated?) side-effect that has serious and negative impacts on society outside of this virtual world. My aim is to create awareness, to encourage people to talk about **Misinformation & Fake News on Social Media**, and help them to make better decisions when they go online.
 
 ## Structure
 I want to take the audience through a journey as follows,
@@ -36,11 +36,11 @@ The Statista data can be used to back up the Pew Research data for the number of
 #### Buzzfeed News
 * [Fake News - Election, Content Engagement](https://docs.google.com/spreadsheets/d/1ysnzawW6pDGBEqbXqeYuzWa7Rx2mQUip6CXUUUk4jIk/edit#gid=399992108)
 
-The Buzzfeed News data can be used to show the impact and widespread nature of fake news. 
+The Buzzfeed News data can be used to show the impact and widespread nature of fake news, especially during the election period. 
 
 
 ## Method and Medium
-* Research - identify articles and verified news stories that talk about real-life incidents as a result of fake news on social media to back up my claim.
+* Research - identify articles and news stories that talk about real-life incidents as a result of fake news on social media to back up my claim.
 * Data Viz - use the data I have gathered to make powerful visualizations to reinforce my message.
 * Writeup - I do not want the writeup to be very long; I want it to support the data and mostly allow the data to talk for itself.
 * Call-to-Action - I have to think through and finalize my call-to-action.
