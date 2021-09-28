@@ -8,8 +8,8 @@ Social media (Facebook, Twitter, Instagram etc.) is a powerful tool, and has mor
 ## Structure
 I want to take the audience through a journey as follows,
 * First, I want to establish the pervasiveness and strength of social media.
-* Then, some information about how many people get their news from social media. 
-* Walk the audience through some examples: Case studies - the 2016 US Elections & Covid vaccine.
+* Then, some statistics about the number of people getting their news (and trusting it) from social media. 
+* Walk the audience through some examples: Case studies - the 2016 US Elections & the Covid-19 pandemic.
 * Conclusion - How can we combat misinformation? What is Big Tech doing about it? What can governments do?
 
 ## Initial Sketches
@@ -31,7 +31,7 @@ The Pew Research Center data consists of two surveys and the questions revolve a
 * [Big Tech combating covid misinformation](https://www.statista.com/statistics/1258831/us-adults-share-social-media-companies-coronavirus-vaccine-misinformation/)
 * [Fake news about Covid](https://www.statista.com/statistics/1105067/coronavirus-fake-news-by-politics-us/)
 
-The Statista data can be used to back up the Pew Research data for the number of users and social media as a news source. I also found data that can support the case studies on misonformation revolving Covid and the 2016 elections. 
+The Statista data can be used to back up the Pew Research data for the number of users and social media as a news source. I also found data that can support the case studies on misinformation revolving Covid and the 2016 elections. 
 
 #### Buzzfeed News
 * [Fake News - Election, Content Engagement](https://docs.google.com/spreadsheets/d/1ysnzawW6pDGBEqbXqeYuzWa7Rx2mQUip6CXUUUk4jIk/edit#gid=399992108)
