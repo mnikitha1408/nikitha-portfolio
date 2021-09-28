@@ -14,10 +14,10 @@ I want to take the audience through a journey as follows,
 
 ## Initial Sketches
 <img src="population.jpeg" alt="Population" width="450"/>
-![Population](/population.jpeg)
-![Internet Users](/internet users.jpeg)
-![Social Media Growth](/social media growth.jpeg)
-![News Source](/news source.jpeg)
+<img src="internet users.jpeg" alt="Internet" width="450"/>
+<img src="social media growth.jpeg" alt="Social Media Growth" width="650"/>
+<img src="news source.jpeg" alt="News Source" width="550"/>
+
 
 ## Data
 I have identified the following sources of data that I can use for my story. <br/>
