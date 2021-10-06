@@ -98,8 +98,13 @@ The other two persons I interviewed are in my target audience category. They are
 ### Findings
 
 1. The first pie-chart is not clear. It implies that the remaining 43% are also on social media but are simply not active.
-2. Need to better structure the second part of the project. The percentage of adults relying on social media for their news is not clear.
-3. 
+2. Need to better structure the second part of the project. The percentage of adults relying on social media for their news is not clear. The seriousness of the issue is not portrayed. 
 
 ### Changes to implement 
+
+1. Change the data in the line chart to include social media users through the years from around the world and not only the US.
+2. Add context to the WhatsApp users graph for the example.
+3. Change the title and labels in the pie-chart to make it clear.
+4. Change the style of the chart that depicts the population getting their news from social media. Either compare it against total population (stacked chart or area chart) or think about a different way to portray it. 
+
 ## Next Steps
