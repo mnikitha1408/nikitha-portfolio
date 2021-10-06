@@ -12,7 +12,7 @@ The feedback I received from Part 1 told me that my scope was broad and that I n
 5. After having established the seriousness and the potential harm that misinformation could lead to, I want to give the audience an actionable plan that they can follow to reduce the spread of misinformation and make better decisions when they go online.
 
 ## Wireframes 
-I had included hand-drawn sketches in Part 1. <br/> Here, I used Flourish to refine them using the data I had gathered earlier. I also decided on and enforced my colour scheme - Black, White and Red. 
+I had included hand-drawn sketches in Part 1. <br/> Here, I used Flourish to refine them using the data I had gathered earlier. I also decided on and enforced my colour scheme - Black, Grey, Red and White.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7440727"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/7449696"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -41,41 +41,41 @@ The other two persons I interviewed are in my target audience category. They are
 1. Do you need the explanation for what social media is?
   * Mom - Yes. It is helpful. 
   * Friend #1 - No.
-  * Friend #2 - No.
+  * Friend #2 - Not necessary for me but depends on who is reading. 
   * Classmate - 
 2. What do you think the ‘World’s population on social media’ chart is trying to convey?
-  * Mom -
+  * Mom - The number of active social media users of the total world population is 56%.
   * Friend #1 - Out of all the people in the world, 56% are active on social media
-  * Friend #2 -
+  * Friend #2 - That more than half of the people in the world use social media!
   * Classmate - 
 4. Are the two pie charts effective in establishing my point that social media is pervasive?
-  * Mom -
+  * Mom - Yes. But I think you could show the bigger proportion first.
   * Friend #1 - The line chart is actually more effective. It is telling me that the more number of people there are on social media, more is the chance of misinformation to spread 
-  * Friend #2 -
+  * Friend #2 - Yes. Anything visual is powerful. But why do you have only US adults for the line chart? Showing the entire user base will be more effective.
   * Classmate - 
 6. Have I established how serious the issue of obtaining news from social media is?
-  * Mom - 
+  * Mom - I can see that it is very high in developing countries. But I don't see the problem. 
   * Friend #1 - Yes I can see that a lot of people get their news from social media but I do not see the danger of it.
-  * Friend #2 - 
+  * Friend #2 - Not really. Looking at the chart, I feel like it is again talking about how 75% of the population use social media. 
   * Classmate - 
 8. Does the example support my cause?
-  * Mom - 
+  * Mom - Yes. I receive a lot of forwards on WhatsApp everyday and most of it has the double arrow. I was not aware of this issue.
   * Friend #1 - Yes. But it feels like the issue is not widespread, that it is in India only.
-  * Friend #2 - 
+  * Friend #2 - Yes. I get the idea and I like the WhatsApp users comparison against the other countries.
   * Classmate - 
 10. Do you think another example of a bad outcome could be helpful?
-  * Mom - 
-  * Friend #1 - 
+  * Mom - Yes. Something about Covid could be very helpful. 
+  * Friend #1 - No. Do not think it is necessary here. 
   * Friend #2 - Yes. It should be something more generic so that people know that misinformation being harmful is not an expection only in India.
   * Classmate -
 12. Can you tell me what you think I am trying to convey here in a sentence or two?
-  * Mom - 
-  * Friend #1 - 
+  * Mom - That I am trying to raise awareness? on an issue that has only recently come to light.
+  * Friend #1 - The effect of misinformation in the daily lives of people. It shapes how people understand things around them.
   * Friend #2 - That we need to take misinformation seriosly and that if something is not done, it could be very harmful to society.
   * Classmate -
 14. Have I motivated you to learn more about misinformation and/or think before you share?
-  * Mom - 
-  * Friend #1 - 
+  * Mom - Yes. I will definitely talk to my friends and colleagues about this but I do not think we are in the category you are worried about.
+  * Friend #1 - Yes. It is concise and to the point.
   * Friend #2 - Haha sure.
   * Classmate -
 16. Is there anything you find confusing/surprising or out of place?
@@ -85,12 +85,12 @@ The other two persons I interviewed are in my target audience category. They are
   * Classmate -
 18. Would you change/add/remove anything?
   * Mom - 
-  * Friend #1 - 
+  * Friend #1 - I like the title slide. Try not to add a lot of text to the story.
   * Friend #2 - Add more context to the WhatsApp stats chart to show why it is there. Not exactly clear on the relationship between the chart and the example.
   * Classmate -
 20. Who do you think is the intended audience? Specific age group?
-  * Mom - 
-  * Friend #1 - 
+  * Mom - Students? in school?
+  * Friend #1 - Anyone really. You are trying to raise awareness.
   * Friend #2 - It depends on the country? But mostly for 40+ and maybe teens?
   * Classmate -
 
