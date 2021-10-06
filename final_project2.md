@@ -71,7 +71,7 @@ The other two persons I interviewed are in my target audience category. They are
 12. Can you tell me what you think I am trying to convey here in a sentence or two?
   * Mom - That I am trying to raise awareness? on an issue that has only recently come to light.
   * Friend #1 - The effect of misinformation in the daily lives of people. It shapes how people understand things around them.
-  * Friend #2 - That we need to take misinformation seriosly and that if something is not done, it could be very harmful to society.
+  * Friend #2 - That we need to take misinformation seriously and that if something is not done, it could be very harmful to society.
   * Classmate -
 14. Have I motivated you to learn more about misinformation and/or think before you share?
   * Mom - Yes. I will definitely talk to my friends and colleagues about this but I do not think we are in the category you are worried about.
@@ -96,6 +96,10 @@ The other two persons I interviewed are in my target audience category. They are
 
 
 ### Findings
+
+1. The first pie-chart is not clear. It implies that the remaining 43% are also on social media but are simply not active.
+2. Need to better structure the second part of the project. The percentage of adults relying on social media for their news is not clear.
+3. 
 
 ### Changes to implement 
 ## Next Steps
