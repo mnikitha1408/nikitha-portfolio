@@ -20,6 +20,9 @@ Data Visualization is central to a position where you are expected to help peopl
 [Visualizing Government Debt](/dataviz2.md)
 ## Assignments 3 & 4
 [Critique by Design](/redesign_assignment.md)
-## Final Project
+## Final Project - Part 1
 [Final Project](/final_project.md)
+## Final Project - Part 2
+[Final Project](/final_project2.md)
+
 
