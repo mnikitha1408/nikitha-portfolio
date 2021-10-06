@@ -32,8 +32,9 @@ I also made the decision to use only simple charts to ensure that my message did
 I used Shorthand to develop my storyboard. I felt that it would serve as a draft for the final presentation and that it would help me stick to my message and keep it to the point. Here is the link to the preview of my story on Shorthand, (https://preview.shorthand.com/dDZOoF3GzqfjAhEL)
 
 ## User Research and Interviews
-I used the storyboard I created on Shorthand for my user research. I interviewed two of my friends and my mom in order to get some feedback about what was working, what was not, what could be changed etc. I first created an interview script consisting of 11 questions. My main goal was to assess if my message was clear and if there was anything I could improve on to make it more effective.
+I used the storyboard I created on Shorthand for my user research. I interviewed three of my friends and my mom in order to get some feedback about what was working, what was not, what could be changed etc. I first created an interview script consisting of 11 questions. My main goal was to assess if my message was clear and if there was anything I could improve on to make it more effective.
 My rationale behind interviewing my mom was that she is in the 40+ age category, that her views on this topic and they way she would interpret my story would be very different compared to my peers.
-
+I interviewed one person from class because they are aware of what is expected and can provide structured critique on my charts.
+The other two persons I interviewed are in my target audience category. They are my friends and I know that they use social media on a regular basis.
 
 ## Next Steps
