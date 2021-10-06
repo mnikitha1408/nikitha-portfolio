@@ -12,6 +12,7 @@ The feedback I received from Part 1 told me that my scope was broad and that I n
 5. After having established the seriousness and the potential harm that misinformation could lead to, I want to give the audience an actionable plan that they can follow to reduce the spread of misinformation and make better decisions when they go online.
 
 ## Wireframes 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7440727"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## Storyboard
