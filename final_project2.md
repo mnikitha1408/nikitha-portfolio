@@ -37,19 +37,65 @@ My rationale behind interviewing my mom was that she is in the 40+ age category,
 I interviewed one person from class because they are aware of what is expected and can provide structured critique on my charts.
 The other two persons I interviewed are in my target audience category. They are my friends and I know that they use social media on a regular basis.
 
-My Interview Script:
+### My Interview Questions and Responses:
 1. Do you need the explanation for what social media is?
+  * Mom - Yes. It is helpful. 
+  * Friend #1 - No.
+  * Friend #2 - No.
+  * Classmate - 
 2. What do you think the ‘World’s population on social media’ chart is trying to convey?
-3. Are the two pie charts effective in establishing my point that social media is pervasive?
-4. Have I established how serious the issue of obtaining news from social media is?
-5. Does the example support my cause?
-6. Do you think another example of a bad outcome could be helpful?
-7. Can you tell me what you think I am trying to convey here in a sentence or two?
-8. Have I motivated you to learn more about misinformation and/or think before you share?
-9. Is there anything you find confusing/surprising or out of place?
-10. Would you change/add/remove anything?
-11. Who do you think is the intended audience? Specific age group?
+  * Mom -
+  * Friend #1 - Out of all the people in the world, 56% are active on social media
+  * Friend #2 -
+  * Classmate - 
+4. Are the two pie charts effective in establishing my point that social media is pervasive?
+  * Mom -
+  * Friend #1 - The line chart is actually more effective. It is telling me that the more number of people there are on social media, more is the chance of misinformation to spread 
+  * Friend #2 -
+  * Classmate - 
+6. Have I established how serious the issue of obtaining news from social media is?
+  * Mom - 
+  * Friend #1 - Yes I can see that a lot of people get their news from social media but I do not see the danger of it.
+  * Friend #2 - 
+  * Classmate - 
+8. Does the example support my cause?
+  * Mom - 
+  * Friend #1 - Yes. But it feels like the issue is not widespread, that it is in India only.
+  * Friend #2 - 
+  * Classmate - 
+10. Do you think another example of a bad outcome could be helpful?
+  * Mom - 
+  * Friend #1 - 
+  * Friend #2 - Yes. It should be something more generic so that people know that misinformation being harmful is not an expection only in India.
+  * Classmate -
+12. Can you tell me what you think I am trying to convey here in a sentence or two?
+  * Mom - 
+  * Friend #1 - 
+  * Friend #2 - That we need to take misinformation seriosly and that if something is not done, it could be very harmful to society.
+  * Classmate -
+14. Have I motivated you to learn more about misinformation and/or think before you share?
+  * Mom - 
+  * Friend #1 - 
+  * Friend #2 - Haha sure.
+  * Classmate -
+16. Is there anything you find confusing/surprising or out of place?
+  * Mom - 
+  * Friend #1 - 
+  * Friend #2 - What is the other 43% on the internet doing without social media?! (The pie chart has been misinterpreted)
+  * Classmate -
+18. Would you change/add/remove anything?
+  * Mom - 
+  * Friend #1 - 
+  * Friend #2 - Add more context to the WhatsApp stats chart to show why it is there. Not exactly clear on the relationship between the chart and the example.
+  * Classmate -
+20. Who do you think is the intended audience? Specific age group?
+  * Mom - 
+  * Friend #1 - 
+  * Friend #2 - It depends on the country? But mostly for 40+ and maybe teens?
+  * Classmate -
 
 
+### Findings
 
+### Changes to implement 
 ## Next Steps
