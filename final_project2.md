@@ -49,39 +49,39 @@ The other person I interviewed was in my target audience category. I know that t
   * Mom - The number of active social media users of the total world population is 56%.
   * Friend #1 - Out of all the people in the world, 56% are active on social media
   * Friend #2 - That more than half of the people in the world use social media! 
-4. Are the two pie charts effective in establishing my point that social media is pervasive?
+3. Are the two pie charts effective in establishing my point that social media is pervasive?
   * Mom - Yes. But I think you could show the bigger proportion first.
   * Friend #1 - The line chart is actually more effective. It is telling me that the more number of people there are on social media, more is the chance of misinformation to spread 
   * Friend #2 - Yes. Anything visual is powerful. But why do you have only US adults for the line chart? Showing the entire user base will be more effective.
-6. Have I established how serious the issue of obtaining news from social media is?
+4. Have I established how serious the issue of obtaining news from social media is?
   * Mom - I can see that it is very high in developing countries. But I don't see the problem. 
   * Friend #1 - Yes I can see that a lot of people get their news from social media but I do not see the danger of it.
   * Friend #2 - Not really. Looking at the chart, I feel like it is again talking about how 75% of the population use social media. 
-8. Does the example support my cause?
+5. Does the example support my cause?
   * Mom - Yes. I receive a lot of forwards on WhatsApp everyday and most of it has the double arrow. I was not aware of this issue.
   * Friend #1 - Yes. But it feels like the issue is not widespread, that it is in India only.
   * Friend #2 - Yes. I get the idea and I like the WhatsApp users comparison against the other countries.
-10. Do you think another example of a bad outcome could be helpful?
+6. Do you think another example of a bad outcome could be helpful?
   * Mom - Yes. Something about Covid could be very helpful. 
   * Friend #1 - No. Do not think it is necessary here. 
   * Friend #2 - Yes. It should be something more generic so that people know that misinformation being harmful is not an expection only in India.
-12. Can you tell me what you think I am trying to convey here in a sentence or two?
+7. Can you tell me what you think I am trying to convey here in a sentence or two?
   * Mom - That I am trying to raise awareness? on an issue that has only recently come to light.
   * Friend #1 - The effect of misinformation in the daily lives of people. It shapes how people understand things around them.
   * Friend #2 - That we need to take misinformation seriously and that if something is not done, it could be very harmful to society.
-14. Have I motivated you to learn more about misinformation and/or think before you share?
+8. Have I motivated you to learn more about misinformation and/or think before you share?
   * Mom - Yes. I will definitely talk to my friends and colleagues about this but I do not think we are in the category you are worried about.
   * Friend #1 - Yes. It is concise and to the point.
   * Friend #2 - Haha sure.
-16. Is there anything you find confusing/surprising or out of place?
+9. Is there anything you find confusing/surprising or out of place?
   * Mom - 
   * Friend #1 - 
   * Friend #2 - What is the other 43% on the internet doing without social media?! (The pie chart has been misinterpreted)
-18. Would you change/add/remove anything?
+10. Would you change/add/remove anything?
   * Mom - 
   * Friend #1 - I like the title slide. Try not to add a lot of text to the story.
   * Friend #2 - Add more context to the WhatsApp stats chart to show why it is there. Not exactly clear on the relationship between the chart and the example.
-20. Who do you think is the intended audience? Specific age group?
+11. Who do you think is the intended audience? Specific age group?
   * Mom - Students? in school?
   * Friend #1 - Anyone really. You are trying to raise awareness.
   * Friend #2 - It depends on the country? But mostly for 40+ and maybe teens?
@@ -100,3 +100,4 @@ The other person I interviewed was in my target audience category. I know that t
 2. Add context to the WhatsApp users graph for the example.
 3. Change the title and labels in the pie-chart to make it clear.
 4. Change the style of the chart that depicts the population getting their news from social media. Either compare it against total population (stacked chart or area chart) or think about a different way to portray it. 
+5. Resize the charts on Shorthand for the final presentation. They are currently taking up the whole screen and are distorted.
