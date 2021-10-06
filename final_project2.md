@@ -12,11 +12,28 @@ The feedback I received from Part 1 told me that my scope was broad and that I n
 5. After having established the seriousness and the potential harm that misinformation could lead to, I want to give the audience an actionable plan that they can follow to reduce the spread of misinformation and make better decisions when they go online.
 
 ## Wireframes 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7440727"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+I had included hand-drawn sketches in Part 1. <br/> Here, I used Flourish to refine them using the data I had gathered earlier. I also decided on and enforced my colour scheme - Black, White and Red. 
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7440727"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/7449696"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I decided to use a different dataset for this chart since I felt it was more important to show the total number of users of social media through the years rather than break it down by age.
+<div class="flourish-embed flourish-chart" data-src="visualisation/7440653"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I also decided to show data on the percentage of adults getting their news from social media from across the world rather than only the US.
+<div class="flourish-embed flourish-chart" data-src="visualisation/7449781"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I found the relevant data and added this chart to support my example.
+<div class="flourish-embed flourish-chart" data-src="visualisation/7449956"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I also made the decision to use only simple charts to ensure that my message did not get misinterpreted.
 
 ## Storyboard
+I used Shorthand to develop my storyboard. I felt that it would serve as a draft for the final presentation and that it would help me stick to my message and keep it to the point. Here is the link to the preview of my story on Shorthand, (https://preview.shorthand.com/dDZOoF3GzqfjAhEL)
 
 ## User Research and Interviews
+I used the storyboard I created on Shorthand for my user research. I interviewed two of my friends and my mom in order to get some feedback about what was working, what was not, what could be changed etc. I first created an interview script consisting of 11 questions. My main goal was to assess if my message was clear and if there was anything I could improve on to make it more effective.
+My rationale behind interviewing my mom was that she is in the 40+ age category, that her views on this topic and they way she would interpret my story would be very different compared to my peers.
+
 
 ## Next Steps
