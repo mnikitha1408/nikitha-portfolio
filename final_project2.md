@@ -37,4 +37,19 @@ My rationale behind interviewing my mom was that she is in the 40+ age category,
 I interviewed one person from class because they are aware of what is expected and can provide structured critique on my charts.
 The other two persons I interviewed are in my target audience category. They are my friends and I know that they use social media on a regular basis.
 
+My Interview Script:
+1. Do you need the explanation for what social media is?
+2. What do you think the ‘World’s population on social media’ chart is trying to convey?
+3. Are the two pie charts effective in establishing my point that social media is pervasive?
+4. Have I established how serious the issue of obtaining news from social media is?
+5. Does the example support my cause?
+6. Do you think another example of a bad outcome could be helpful?
+7. Can you tell me what you think I am trying to convey here in a sentence or two?
+8. Have I motivated you to learn more about misinformation and/or think before you share?
+9. Is there anything you find confusing/surprising or out of place?
+10. Would you change/add/remove anything?
+11. Who do you think is the intended audience? Specific age group?
+
+
+
 ## Next Steps
