@@ -29,7 +29,7 @@ I found the relevant data and added this chart to support my example.
 I also made the decision to use only simple charts to ensure that my message did not get misinterpreted.
 
 ## Storyboard
-I used Shorthand to develop my storyboard. I felt that it would serve as a draft for the final presentation and that it would help me stick to my message and keep it to the point. Here is the link to the preview of my story on Shorthand, (https://preview.shorthand.com/dDZOoF3GzqfjAhEL)
+I used Shorthand to develop my storyboard. I felt that it would serve as a draft for the final presentation and that it would help me stick to my message and keep it to the point. Here is the link to the preview of my story on Shorthand, [Shorthand Preview](https://preview.shorthand.com/dDZOoF3GzqfjAhEL)
 
 ## User Research and Interviews
 I used the storyboard I created on Shorthand for my user research. I interviewed three of my friends and my mom in order to get some feedback about what was working, what was not, what could be changed etc. I first created an interview script consisting of 11 questions. My main goal was to assess if my message was clear and if there was anything I could improve on to make it more effective.
