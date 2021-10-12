@@ -61,7 +61,7 @@ https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-g
 
 https://datareportal.com/reports/digital-2021-july-global-statshot
 
-2021/https://www.pewresearch.org/journalism/2021/09/20/news-consumption-across-social-media-in-
+https://www.pewresearch.org/journalism/2021/09/20/news-consumption-across-social-media-in-
 
 https://en.wikipedia.org/wiki/Social_media_as_a_news_source
 
