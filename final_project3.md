@@ -30,7 +30,7 @@ I did not want to restrict my audience by awareness or age group. It is for ever
 
 ## Link to Data Story (Shorthand)
 Check out my final data story here, <br/>
-[Data story - Shorthand](https://carnegiemellon.shorthandstories.com/misinformation-on-social-media/index.html)
+[Misinformation on Social Media - Nikitha Mohan](https://carnegiemellon.shorthandstories.com/misinformation-on-social-media/index.html)
 
 ## References
 
