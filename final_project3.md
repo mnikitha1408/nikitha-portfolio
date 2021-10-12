@@ -41,7 +41,7 @@ Washington Post. 2020. How misinformation on WhatsApp led to a mob killing in I
 
 Nytimes.com. 2016. In Washington Pizzeria Attack, Fake News Brought Real Guns (Published 2016). [online] Available at: <https://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html> [Accessed 12 October 2021].
 
-MIT News | Massachusetts Institute of Technology. 2018. Study: On Twitter, false news travels faster than true stories. [online] Available at: <https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308> [Accessed 12 October 2021].
+MIT News Massachusetts Institute of Technology. 2018. Study: On Twitter, false news travels faster than true stories. [online] Available at: <https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308> [Accessed 12 October 2021].
 
 ### Data
 
