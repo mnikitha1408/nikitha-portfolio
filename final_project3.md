@@ -44,15 +44,14 @@ Nytimes.com. 2016. In Washington Pizzeria Attack, Fake News Brought Real Guns (
 MIT News Massachusetts Institute of Technology. 2018. Study: On Twitter, false news travels faster than true stories. [online] Available at: <https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308> [Accessed 12 October 2021].
 
 ### Data
-
-[Statista](https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/)<br/>
-[DataReportal](https://datareportal.com/social-media-users)<br/>
-[DataReportal](https://datareportal.com/reports/digital-2021-july-global-statshot)<br/>
 [Pew Research Center - Social Media Fact Sheet](https://www.pewresearch.org/internet/fact-sheet/social-media/)<br/>
 [Pew Research Center - Social Media Use 2021](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/)<br/>
 [Pew Research Center - Social Media Use](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf)<br/>
 [Pew Research Center - News Consumption](https://www.pewresearch.org/journalism/2021/09/20/news-consumption-across-social-media-in-2021/)<br/>
 [Pew Research Center - News and Social Media](https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2021/09/PJ_2021.09.20_News-and-Social-Media_TOPLINE.pdf)<br/>
+[Statista](https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/)<br/>
+[DataReportal](https://datareportal.com/social-media-users)<br/>
+[DataReportal](https://datareportal.com/reports/digital-2021-july-global-statshot)<br/>
 [Oberlo](https://www.oberlo.com/statistics/how-many-people-use-social-media)<br/>
 [Smart Insights](https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/)<br/>
 [Wikipedia](https://en.wikipedia.org/wiki/Social_media_as_a_news_source)<br/>
