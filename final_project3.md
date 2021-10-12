@@ -45,16 +45,16 @@ MIT News Massachusetts Institute of Technology. 2018. Study: On Twitter, false 
 
 ### Data
 
-[Statista](https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/)
-[DataReportal](https://datareportal.com/social-media-users)
-[DataReportal](https://datareportal.com/reports/digital-2021-july-global-statshot)
+[Statista](https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/)<br/>
+[DataReportal](https://datareportal.com/social-media-users)<br/>
+[DataReportal](https://datareportal.com/reports/digital-2021-july-global-statshot)<br/>
 [Pew Research Center - Social Media Fact Sheet](https://www.pewresearch.org/internet/fact-sheet/social-media/)<br/>
 [Pew Research Center - Social Media Use 2021](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/)<br/>
 [Pew Research Center - Social Media Use](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf)<br/>
 [Pew Research Center - News Consumption](https://www.pewresearch.org/journalism/2021/09/20/news-consumption-across-social-media-in-2021/)<br/>
 [Pew Research Center - News and Social Media](https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2021/09/PJ_2021.09.20_News-and-Social-Media_TOPLINE.pdf)<br/>
-[Oberlo](https://www.oberlo.com/statistics/how-many-people-use-social-media)
-[Smart Insights](https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/)
-[Wikipedia](https://en.wikipedia.org/wiki/Social_media_as_a_news_source)
-[StatInvestor](https://statinvestor.com/data/22389/number-of-social-media-users-worldwide/)
+[Oberlo](https://www.oberlo.com/statistics/how-many-people-use-social-media)<br/>
+[Smart Insights](https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/)<br/>
+[Wikipedia](https://en.wikipedia.org/wiki/Social_media_as_a_news_source)<br/>
+[StatInvestor](https://statinvestor.com/data/22389/number-of-social-media-users-worldwide/)<br/>
 [USA Today](https://www.usatoday.com/story/tech/2019/12/19/end-decade-heres-how-social-media-has-evolved-over-10-years/4227619002/)
