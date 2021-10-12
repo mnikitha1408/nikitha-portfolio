@@ -50,11 +50,11 @@ MIT News | Massachusetts Institute of Technology. 2018. Study: On Twitter, fals
 [DataReportal](https://datareportal.com/social-media-users)
 [DataReportal](https://datareportal.com/reports/digital-2021-july-global-statshot)
 
-[Pew Research Center - Social Media Fact Sheet](https://www.pewresearch.org/internet/fact-sheet/social-media/)
-[Pew Research Center - Social Media Use 2021](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/)
-[Pew Research Center - Social Media Use](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf)
-[Pew Research Center - News Consumption](https://www.pewresearch.org/journalism/2021/09/20/news-consumption-across-social-media-in-2021/)
-[Pew Research Center - News and Social Media](https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2021/09/PJ_2021.09.20_News-and-Social-Media_TOPLINE.pdf)
+[Pew Research Center - Social Media Fact Sheet](https://www.pewresearch.org/internet/fact-sheet/social-media/)<br/>
+[Pew Research Center - Social Media Use 2021](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/)<br/>
+[Pew Research Center - Social Media Use](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf)<br/>
+[Pew Research Center - News Consumption](https://www.pewresearch.org/journalism/2021/09/20/news-consumption-across-social-media-in-2021/)<br/>
+[Pew Research Center - News and Social Media](https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2021/09/PJ_2021.09.20_News-and-Social-Media_TOPLINE.pdf)<br/>
 
 
 [Oberlo](https://www.oberlo.com/statistics/how-many-people-use-social-media)
