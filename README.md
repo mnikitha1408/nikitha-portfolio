@@ -24,5 +24,6 @@ Data Visualization is central to a position where you are expected to help peopl
 [Final Project - Part 1](/final_project.md)
 ## Final Project - Part 2
 [Final Project - Part 2](/final_project2.md)
-
+## Final Project - Part 3
+[Final Project - Part 3](/final_project3.md)
 
