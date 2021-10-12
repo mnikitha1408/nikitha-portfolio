@@ -29,6 +29,44 @@ The overall takeaway was that the impact of misinformation was not immediately c
 I did not want to restrict my audience by awareness or age group. It is for everyone but could be especially useful to raise awareness in the pre-teen, teen and 40+ categories. 
 
 ## Link to Data Story (Shorthand)
-
+Check out my final data story here, <br/>
+[Data story - Shorthand](https://carnegiemellon.shorthandstories.com/misinformation-on-social-media/index.html)
 
 ## References
+Nytimes.com. 2018. A Genocide Incited on Facebook, With Posts From Myanmar’s Military (Published 2018). [online] Available at: <https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html> [Accessed 12 October 2021].
+
+Washington Post. 2020. How misinformation on WhatsApp led to a mob killing in India. [online] Available at: <https://www.washingtonpost.com/politics/2020/02/21/how-misinformation-whatsapp-led-deathly-mob-lynching-india/> [Accessed 12 October 2021].
+
+Nytimes.com. 2016. In Washington Pizzeria Attack, Fake News Brought Real Guns (Published 2016). [online] Available at: <https://www.nytimes.com/2016/12/05/business/media/comet-ping-pong-pizza-shooting-fake-news-consequences.html> [Accessed 12 October 2021].
+
+MIT News | Massachusetts Institute of Technology. 2018. Study: On Twitter, false news travels faster than true stories. [online] Available at: <https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308> [Accessed 12 October 2021].
+
+https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/
+
+https://datareportal.com/social-media-users
+
+https://www.oberlo.com/statistics/how-many-people-use-social-media
+
+https://www.pewresearch.org/internet/fact-sheet/social-media/
+
+https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/
+
+https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_TOPLINE.pdf
+
+https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml
+
+https://www.statista.com/chart/22527/composition-of-covid-19-misinformation/
+
+https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/
+
+https://datareportal.com/reports/digital-2021-july-global-statshot
+
+2021/https://www.pewresearch.org/journalism/2021/09/20/news-consumption-across-social-media-in-
+
+https://en.wikipedia.org/wiki/Social_media_as_a_news_source
+
+https://www.pewresearch.org/journalism/wp-content/uploads/sites/8/2021/09/PJ_2021.09.20_News-and-Social-Media_TOPLINE.pdf
+
+https://statinvestor.com/data/22389/number-of-social-media-users-worldwide/
+
+https://www.usatoday.com/story/tech/2019/12/19/end-decade-heres-how-social-media-has-evolved-over-10-years/4227619002/
