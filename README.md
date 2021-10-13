@@ -9,7 +9,7 @@ This is my portfolio page for the Telling Stories with Data course at CMU (Fall,
 # About me
 Hi! I am Nikitha Mohan, a graduate student of Information Systems Management at Carnegie Mellon University.
 I have a background in Computer Science and have always been amazed by how mere sequences of ones and zeroes are capable of changing the world. I am particularly interested in teaching computers to understand and learn human language, and have been working towards it through academic courses, projects and internships. 
-<br/>I have also really enjoyed learning about a wide range of subjects from Behavioural Economics to Management Consulting at CMU, and cool technology like Blockchain. <br/>
+<br/><br/>I have also really enjoyed learning about a wide range of subjects from Behavioural Economics to Management Consulting at CMU, and cool technology like Blockchain. <br/><br/>
 Also, here are a few books I read recently - Simon Singh's The Codebook, Genghis Khan & the Making of the Modern World, The Nightingale and Walter Isaacson's Leonardo da Vinci.
 
 ## What I learnt from this course
