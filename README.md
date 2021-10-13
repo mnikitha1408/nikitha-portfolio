@@ -14,9 +14,9 @@ Also, here are a few books I read recently - Simon Singh's The Codebook, Genghis
 
 ## What I learnt from this course
 How to make better, more effective data visualizations!<br/>
-I have learnt to critique visualizations (including my own) and that user research/feedback is very (very!) useful.<br/>
-As a Data Scientist (in the making), I hope to apply some of the skills I have picked up and utilize the resources/tools I have been exposed to.<br/>
-I have realised the importance of using data to tell stories that will have impact (especially to a non-technical audience).
+* I have learnt to critique visualizations (including my own) and that user research is very (very!) useful.<br/>
+* As a Data Scientist (in the making), I hope to apply some of the skills I have picked up and utilize the resources/tools I have been exposed to.<br/>
+* I have realised the importance of using data to tell stories that will have impact (especially to a non-technical audience).
 
 
 # Portfolio
