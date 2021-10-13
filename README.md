@@ -5,8 +5,8 @@ Email: nikitham@andrew.cmu.edu <br/>
 <br/>
 
 # What this portfolio is
-This is my portfolio page for the Telling Stories with Data course at CMU (Fall, 2021). This is a documentation of my data viusalization journey over a period of 7 weeks. <br/>The two 'Critique by Design' sections hold a behind-the-scenes narrative of the changes I made to existing charts to make them more effective.<br/>
-The other sections are dedicated to my final data story, Misinformation on Social Media, and how I approached it in iterations starting from gathering the data to the final product.<br/>
+This is my portfolio page for the Telling Stories with Data course at CMU (Fall, 2021). It is a documentation of my data viusalization journey over a period of 7 weeks. <br/>The two 'Critique by Design' sections hold a behind-the-scenes narrative of the changes I made to existing charts to make them more effective.<br/>
+The other sections are dedicated to my final data story, Misinformation on Social Media, and how I approached it in iterations starting from gathering data to the final product.<br/>
 You can find my final data story here: [Misinformation on Social Media](https://carnegiemellon.shorthandstories.com/misinformation-on-social-media/index.html)
 
 
