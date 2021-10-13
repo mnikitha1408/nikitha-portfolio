@@ -1,9 +1,8 @@
 # Nikitha Mohan
 ### M.S. Information Systems Management, Carnegie Mellon University
-[LinkedIn](https://www.linkedin.com/in/nikitha-mohan/)
+[LinkedIn](https://www.linkedin.com/in/nikitha-mohan/)<br/>
 Email: nikitham@andrew.cmu.edu <br/>
-<br/><br/>
-
+<br/>
 This is my portfolio page for the Telling Stories with Data course at CMU (Fall, 2021).
 
 
