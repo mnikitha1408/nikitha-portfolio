@@ -1,17 +1,23 @@
-# nikitha-portfolio
-My portfolio page for the Telling Stories with Data course at CMU.
+# Nikitha Mohan
+### M.S. Information Systems Management, Carnegie Mellon University
+### [LinkedIn](https://www.linkedin.com/in/nikitha-mohan/)
+### [Email](nikitham@andrew.cmu.edu)<br/>
+<br/><br/>
+
+This is my portfolio page for the Telling Stories with Data course at CMU (Fall, 2021).
 
 
 # About me
 Hi! I am Nikitha Mohan, a graduate student of Information Systems Management at Carnegie Mellon University.
-I have a background in Computer Science and have always been amazed by how mere sequences of ones and zeroes are capable of simplifying life. I am particularly interested in teaching computers to understand and learn human language, and have been working towards it through academic courses, projects and internships. 
-I have also really enjoyed learning about a wide range of subjects from Economics to Management Consulting, and cool technology like Blockchain.
-Also, here are a few books I read during the summer - Simon Singh's The Codebook, Genghis Khan & the Making of the Modern World, The Nightingale.
+I have a background in Computer Science and have always been amazed by how mere sequences of ones and zeroes are capable of changing the world. I am particularly interested in teaching computers to understand and learn human language, and have been working towards it through academic courses, projects and internships. 
+<br/>I have also really enjoyed learning about a wide range of subjects from Behavioural Economics to Management Consulting at CMU, and cool technology like Blockchain. <br/>
+Also, here are a few books I read recently - Simon Singh's The Codebook, Genghis Khan & the Making of the Modern World, The Nightingale and Walter Isaacson's Leonardo da Vinci.
 
-## What I hope to learn
-My ideal job would be to work as a Data Scientist/Strategy Consultant. 
-I believe having good Data Visualization skills is important in this field and that I would greatly benefit from learning how to make better, more effective graphical use of data.
-Data Visualization is central to a position where you are expected to help people without a lot of technical knowledge understand a highly technical project.
+## What I learnt from this course
+How to make better, more effective data visualizations!<br/>
+I have learnt to critique visualizations (including my own) and that user research/feedback is very (very!) useful.<br/>
+As a Data Scientist (in the making), I hope to apply some of the skills I have picked up and utilize the resources/tools I have been exposed to.<br/>
+I have realised the importance of using data to tell stories that will have impact (especially to a non-technical audience).
 
 
 # Portfolio
